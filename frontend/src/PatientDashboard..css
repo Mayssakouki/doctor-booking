@@ -1,0 +1,5 @@
+.doctor-availability-container {
+ width: 200px; /* Ajustez cette valeur selon vos besoins */
+ height: 200px; /* Ajustez cette valeur selon vos besoins */
+ overflow: auto; /* Ajoutez cette propriété pour permettre le défilement si le contenu dépasse la taille définie */
+}
